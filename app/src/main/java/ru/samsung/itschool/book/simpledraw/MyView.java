@@ -44,6 +44,7 @@ public class MyView extends View {
 
     public final int color1 = Color.parseColor("#D50000");
     public final int color2= Color.parseColor("#D00000");
+
     @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
